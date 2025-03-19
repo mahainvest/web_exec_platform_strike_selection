@@ -250,7 +250,7 @@ class Account:
     def login(self):
         try:
             req_token = self.broker.login()
-            self.broker.generate_session_token(req_token)
+            # self.broker.generate_session_token(req_token)
             self.connect_broker_ws()
 
             self.store_master_contract()
@@ -276,6 +276,7 @@ class Account:
             except Exception as e:
                 self.logger.log(f"Error {e} came while fetching master contract from Account#{self.account['name']}", "ERROR")
                 traceback.print_exc()
+                continue
 
     def ws_on_connect(self, ws):
         self.logger.log(f"Connected to Multitrade Websocket successfully: {self.account['name']}", "SUCCESS")

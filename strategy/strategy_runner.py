@@ -111,36 +111,9 @@ class StrategyRunner:
                         lots_to_enter = 0
 
                         if latest_alert is not None and latest_alert.type == "ENTRY":
-                            strike = latest_alert.get('STRIKE')
-                            expiry = latest_alert.get('EXPIRY')
-
-                            if strike is not None and expiry is not None:
-                                # Construct the expected Leg name
-                                expected_leg_name = f"{port.name}-{latest_alert['TYPE']}-{strike}-{expiry}"
-
-                                # Check if the leg name exist.
-                                if leg['name'] == expected_leg_name:
-                                    self.logger.log(f"Taking entry in Leg#{leg['name']} as Latest TV Entry Alert: {latest_alert.id} has come", "INFO", port.id)
-                                    to_take_entry = True
-                                    lots_to_enter = latest_alert.lots
-                                else:
-                                    continue # if the leg name does not match, then this is not the leg for this alert.
-                            else:
-                                # Fallback: Process the alert without strike/expiry
-                                self.logger.log(f"Taking entry in Leg#{leg['name']} as Latest TV Entry Alert: {latest_alert.id} has come (strike/expiry not provided)", "INFO", port.id)
-                                to_take_entry = True
-                                lots_to_enter = latest_alert.lots
-                            # expected_leg_name = f"{port.name}-{latest_alert['TYPE']}-{latest_alert.get('STRIKE')}-{latest_alert.get('EXPIRY')}"
-
-                            # if leg['name'] == expected_leg_name:
-                            #     self.logger.log(f"Taking entry in Leg#{leg['name']} as Latest TV Entry Alert: {latest_alert.id} has come", "INFO", port.id)
-                            #     to_take_entry = True
-                            #     lots_to_enter = latest_alert.lots
-                            # else:
-                            #     continue 
-                            # self.logger.log(f"Taking entry in Leg#{leg['name']} as Latest TV Entry Alert: {latest_alert.id} has come", "INFO", port.id)
-                            # to_take_entry = True
-                            # lots_to_enter = latest_alert.lots
+                            self.logger.log(f"Taking entry in Leg#{leg['name']} as Latest TV Entry Alert: {latest_alert.id} has come", "INFO", port.id)
+                            to_take_entry = True
+                            lots_to_enter = latest_alert.lots
 
                         elif port.execute_button:
                             self.logger.log(f"Taking entry in Leg#{leg['name']} as Manual Execute Button was clicked", "INFO", port.id)
@@ -175,31 +148,8 @@ class StrategyRunner:
                         to_exit = False
 
                         if latest_alert is not None and latest_alert.type == "EXIT":
-                            # self.logger.log(f"Exiting Leg#{leg['name']} as Latest TV Exit Alert: {latest_alert.id} has come", "INFO", port.id)
-                            # to_exit = True
-                            # expected_leg_name = f"{port.name}-{latest_alert['TYPE']}-{latest_alert.get('STRIKE')}-{latest_alert.get('EXPIRY')}"
-
-                            # if leg['name'] == expected_leg_name:
-                            #     self.logger.log(f"Exiting Leg#{leg['name']} as Latest TV Exit Alert: {latest_alert.id} has come", "INFO", port.id)
-                            #     to_exit = True
-                            # else:
-                            #     continue
-                            strike = latest_alert.get('STRIKE')
-                            expiry = latest_alert.get('EXPIRY')
-
-                            if strike is not None and expiry is not None:
-                                # Construct the expected Leg name
-                                expected_leg_name = f"{port.name}-{latest_alert['TYPE']}-{strike}-{expiry}"
-
-                                if leg['name'] == expected_leg_name:
-                                    self.logger.log(f"Exiting Leg#{leg['name']} as Latest TV Exit Alert: {latest_alert.id} has come", "INFO", port.id)
-                                    to_exit = True
-                                else:
-                                    continue
-                            else:
-                                # Fallback: Process the alert without strike/expiry
-                                self.logger.log(f"Exiting Leg#{leg['name']} as Latest TV Exit Alert: {latest_alert.id} has come (strike/expiry not provided)", "INFO", port.id)
-                                to_exit = True
+                            self.logger.log(f"Exiting Leg#{leg['name']} as Latest TV Exit Alert: {latest_alert.id} has come", "INFO", port.id)
+                            to_exit = True
                         else:
                             if leg.trade_type == "BUY":
                                 if sl != 0 and leg.sl_on == "PREMIUM" and ltp <= base_price_for_sl - sl:

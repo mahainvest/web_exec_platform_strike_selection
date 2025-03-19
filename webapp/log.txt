@@ -2556,3 +2556,620 @@ Mon Mar 17 14:27:05 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket succes
 Mon Mar 17 14:33:07 2025	(#6)	[INFO]	Taking entry in Leg#Leg_1 as Latest TV Entry Alert: 14 has come (strike/expiry not provided)
 Mon Mar 17 14:33:07 2025	(#0)	[SUCCESS]	Subscribed to NSECM:35001
 Mon Mar 17 14:37:31 2025	(#6)	[INFO]	Taking entry in Leg#Leg_1 as Latest TV Entry Alert: 16 has come (strike/expiry not provided)
+Tue Mar 18 20:14:27 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: NSE
+Tue Mar 18 20:20:41 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:20:48 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:20:54 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:00 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:05 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:11 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:11 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:17 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:25 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:25 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:32 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:33 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:40 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:40 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:47 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:47 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:53 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:59 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:21:59 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:22:04 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:22:05 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:22:11 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:22:17 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:22:23 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:22:24 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:22:30 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:22:35 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:22:41 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:22:48 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:22:54 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:23:00 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:23:05 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:23:11 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:23:18 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:23:24 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:23:31 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:23:35 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:23:42 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:23:48 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:23:48 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:23:55 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:23:55 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:24:02 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:24:02 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:24:07 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:24:13 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:24:19 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:24:26 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:24:32 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:24:37 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:24:37 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:24:43 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:24:50 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:24:56 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:25:02 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:25:03 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:25:07 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:25:14 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:25:14 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: NSE
+Tue Mar 18 20:26:11 2025	(#11)	[INFO]	Taking entry in Leg#Leg_1 as Latest TV Entry Alert: 18 has come (strike/expiry not provided)
+Tue Mar 18 20:26:13 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:26:19 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:26:25 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:26:32 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:26:38 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:26:38 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:26:43 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:26:49 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:26:56 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:27:02 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:27:08 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:27:13 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:27:19 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:27:26 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:27:32 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:27:38 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:27:43 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:27:49 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:27:55 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:28:01 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:28:07 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:28:12 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:28:12 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:28:18 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:28:24 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:28:30 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:28:37 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:28:43 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:28:47 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:28:53 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:29:00 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:29:06 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:29:12 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:29:17 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:29:23 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:29:29 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:29:35 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:29:42 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:29:42 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:29:46 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:29:53 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:29:53 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:29:59 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:29:59 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:30:06 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:30:06 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:30:12 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:30:12 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:30:17 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:30:23 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:30:29 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:30:36 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:30:36 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:30:42 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:30:47 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:30:47 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:30:53 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:30:59 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:30:59 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:31:06 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:31:12 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:31:17 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:31:17 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:31:23 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:31:29 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:31:35 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:31:41 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:31:46 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:31:52 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:31:58 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:32:05 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:32:11 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:32:11 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:32:17 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:32:22 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:32:28 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:32:34 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:32:40 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:32:47 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:32:47 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:32:51 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:32:57 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:33:04 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:33:10 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:33:17 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:33:17 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:33:23 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:33:23 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:33:30 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:33:30 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:33:37 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:33:37 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:33:43 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:33:49 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:33:54 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:34:00 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:34:06 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:34:06 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:34:13 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:34:13 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:34:19 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:34:24 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:34:24 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:34:30 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:34:37 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:34:43 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:34:49 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:34:54 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:35:00 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:35:07 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:35:07 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:35:13 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:35:19 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:35:24 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:35:30 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:35:30 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:35:37 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:35:37 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:35:43 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:35:50 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:35:50 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:35:55 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:36:01 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:36:08 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:36:08 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:36:15 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:36:21 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:36:21 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:36:26 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:36:32 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:36:39 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:36:45 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:36:51 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:36:56 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:37:02 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:37:09 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:37:09 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:37:15 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:37:22 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:37:22 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:37:26 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:37:33 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:37:33 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:37:39 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:37:46 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:37:52 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:37:56 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:38:03 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:38:09 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:38:15 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:38:21 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:38:26 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:38:32 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:38:38 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:38:45 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:38:51 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:38:56 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:39:02 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:39:08 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:39:14 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:39:20 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:39:21 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:39:27 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:39:31 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:39:38 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:39:44 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:39:44 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:39:50 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:39:56 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:39:56 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:40:01 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:40:07 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:40:14 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:40:20 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:40:26 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:40:31 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:40:37 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:40:43 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:40:43 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:40:50 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:40:56 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:41:00 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:41:07 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:41:07 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:41:13 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:41:20 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:41:20 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:41:27 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:41:27 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:41:32 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:41:32 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:41:38 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:41:44 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:41:50 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:41:56 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:42:01 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:42:07 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:42:14 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:42:20 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:42:26 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:42:31 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:42:37 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:42:43 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:42:49 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:42:56 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:43:02 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:43:06 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:43:13 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:43:19 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:43:19 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:43:25 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:43:31 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:43:36 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:43:42 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:43:48 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:43:54 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:44:01 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:44:01 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:44:05 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:44:11 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:44:18 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:44:24 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:44:30 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:44:35 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:44:41 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:44:47 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:44:53 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:44:59 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:45:05 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:45:10 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:45:16 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:45:22 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:45:28 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:45:34 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:45:39 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:45:39 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:45:45 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:45:51 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:45:58 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:46:04 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:46:04 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:46:08 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:46:15 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:46:15 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:46:21 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:46:28 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:46:28 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:46:34 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:46:39 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:46:39 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:46:45 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:46:51 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:46:57 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:47:04 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:47:04 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:47:08 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:47:14 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:47:21 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:47:27 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:47:33 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:47:38 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:47:44 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:47:50 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:47:56 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:48:02 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:48:08 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:48:13 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:48:19 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:48:25 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:48:32 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:48:38 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:48:42 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:48:48 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:48:55 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:49:01 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:49:07 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:49:11 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:49:18 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:49:24 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:49:30 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:49:36 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:49:41 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:49:47 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:49:53 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:49:59 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:50:05 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:50:11 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:50:16 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:50:22 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:50:28 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:50:35 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:50:41 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:50:45 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:50:45 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:50:52 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:50:58 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:51:04 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:51:10 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:51:15 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:51:22 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:51:22 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:51:28 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:51:28 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:51:34 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:51:40 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:51:45 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:51:51 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:51:57 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:52:03 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:52:03 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:52:10 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:52:14 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:52:20 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:52:27 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:52:33 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:52:39 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:52:45 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:52:50 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:52:56 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:53:02 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:53:08 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:53:15 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:53:15 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:53:20 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:53:26 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:53:32 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:53:38 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:53:44 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:53:49 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:53:55 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:54:01 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:54:07 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:54:07 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:54:14 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:54:18 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:54:24 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:54:30 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:54:37 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:54:43 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:54:49 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:54:54 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:54:54 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:55:00 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:55:06 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:55:12 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:55:12 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:55:18 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:55:23 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:55:29 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:55:35 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:55:41 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:55:48 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:55:52 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:55:58 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:56:05 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:56:11 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:56:11 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:56:18 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:56:22 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:56:28 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:56:35 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:56:35 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:56:41 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:56:47 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:56:51 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:56:57 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:57:04 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:57:10 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:57:16 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:57:22 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:57:22 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:57:27 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:57:33 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:57:39 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:57:39 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:57:46 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:57:52 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:57:56 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:58:02 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:58:09 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:58:15 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:58:21 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:58:21 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:58:26 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:58:32 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:58:38 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:58:44 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:58:51 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:58:51 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:58:55 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:59:01 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:59:08 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:59:08 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:59:14 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:59:20 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:59:25 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:59:31 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:59:37 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:59:37 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:59:43 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:59:49 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 20:59:55 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:00:00 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:00:06 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:00:12 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:00:18 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:00:25 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:00:29 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:00:36 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:00:42 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:00:48 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:00:54 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:00:59 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:01:05 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:01:11 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:01:17 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:01:23 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:01:28 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:01:35 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:01:35 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:01:41 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:01:41 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:01:47 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:01:54 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:01:58 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:01:58 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:02:04 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:02:11 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:02:17 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:02:23 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:02:29 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:02:34 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:02:40 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:02:46 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:02:52 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:02:58 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:03:03 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:03:09 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:03:15 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:03:21 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:03:27 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:03:32 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:03:38 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:03:44 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:03:50 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:03:56 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:04:01 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:04:07 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:04:07 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:04:14 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:04:20 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:04:26 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:04:32 2025	(#0)	[ERROR]	Error 'data' came while trying to login to account: MCX_ZZJ14625
+Tue Mar 18 21:04:39 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: NSE
+Tue Mar 18 21:04:39 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: MCX_ZZJ14625
+Tue Mar 18 21:04:39 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: MCX_ZZJ14625
+Tue Mar 18 21:04:43 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:04:44 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:04:48 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:04:49 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:04:52 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:04:54 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:04:57 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:05:00 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:05:01 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:05:04 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:05:04 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:05:09 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:05:10 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:05:14 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:05:15 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:05:19 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:05:21 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:05:23 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:05:26 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:05:28 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:05:28 2025	(#9)	[INFO]	Taking entry in Leg#Leg_1 as Latest TV Entry Alert: 17 has come (strike/expiry not provided)
+Tue Mar 18 21:10:26 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: NSE
+Tue Mar 18 21:10:27 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: MCX_ZZJ14625
+Tue Mar 18 21:10:30 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:10:34 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:10:38 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:10:42 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:10:44 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:10:47 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:10:52 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:10:56 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:11:00 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:11:04 2025	(#0)	[ERROR]	Error Error tokenizing data. C error: Expected 12 fields in line 60961, saw 13
+ came while fetching master contract from Account#MCX_ZZJ14625
+Tue Mar 18 21:16:12 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: NSE
+Tue Mar 18 21:16:12 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: MCX_ZZJ14625
+Tue Mar 18 21:16:52 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: NSE
+Tue Mar 18 21:16:53 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: MCX_ZZJ14625
+Tue Mar 18 21:16:53 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: MCX_ZZJ14625
+Tue Mar 18 21:26:23 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: NSE
+Tue Mar 18 21:26:23 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: MCX_ZZJ14625
+Tue Mar 18 21:26:23 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: MCX_ZZJ14625
+Tue Mar 18 21:27:44 2025	(#12)	[INFO]	Taking entry in Leg#Leg_1 as Latest TV Entry Alert: 22 has come
+Tue Mar 18 21:27:44 2025	(#0)	[SUCCESS]	Subscribed to MCX:447573
+Tue Mar 18 21:27:44 2025	(#0)	[SUCCESS]	Subscribed to MCX:439829
+Tue Mar 18 21:27:44 2025	(#12)	[SUCCESS]	Order Placed: nan | Trade: BUY | Qty: 2 | Type: MARKET | Price: 218.6 | Account: MCX_ZZJ14625
+Tue Mar 18 21:27:47 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: NSE
+Tue Mar 18 21:27:47 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: MCX_ZZJ14625
+Tue Mar 18 21:27:48 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: MCX_ZZJ14625
+Tue Mar 18 21:27:54 2025	(#0)	[SUCCESS]	Subscribed to MCX:447573
+Tue Mar 18 21:27:54 2025	(#0)	[SUCCESS]	Subscribed to MCX:439829
+Tue Mar 18 21:28:15 2025	(#12)	[INFO]	Exiting Leg#Leg_1 as Latest TV Exit Alert: 23 has come
+Tue Mar 18 21:28:15 2025	(#12)	[SUCCESS]	Order Placed: NaN | Trade: SELL | Qty: 0 | Type: MARKET | Price: 219.0 | Account: MCX_ZZJ14625
+Tue Mar 18 21:53:22 2025	(#0)	[ERROR]	Multitrade Websocket error @ Connection to remote host was lost.: NSE
+Tue Mar 18 21:53:22 2025	(#0)	[ERROR]	Multitrade Websocket connection closed @ None None, retrying in 1 sec: NSE
+Tue Mar 18 21:53:23 2025	(#0)	[ERROR]	Multitrade Websocket error @ Connection to remote host was lost.: MCX_ZZJ14625
+Tue Mar 18 21:53:23 2025	(#0)	[ERROR]	Multitrade Websocket connection closed @ None None, retrying in 1 sec: MCX_ZZJ14625
+Tue Mar 18 21:53:23 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: NSE
+Tue Mar 18 21:53:24 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: MCX_ZZJ14625
+Tue Mar 18 23:41:37 2025	(#0)	[ERROR]	Closing
+Tue Mar 18 23:41:37 2025	(#0)	[ERROR]	Closing
+Tue Mar 18 23:41:37 2025	(#0)	[ERROR]	Closing
+Tue Mar 18 23:42:14 2025	(#0)	[ERROR]	Multitrade Websocket error @ Connection to remote host was lost.: NSE
+Tue Mar 18 23:42:14 2025	(#0)	[ERROR]	Multitrade Websocket connection closed @ None None, retrying in 1 sec: NSE
+Tue Mar 18 23:42:15 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: NSE
+Tue Mar 18 23:42:16 2025	(#0)	[ERROR]	Multitrade Websocket error @ Connection to remote host was lost.: MCX_ZZJ14625
+Tue Mar 18 23:42:16 2025	(#0)	[ERROR]	Multitrade Websocket connection closed @ None None, retrying in 1 sec: MCX_ZZJ14625
+Tue Mar 18 23:42:17 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: MCX_ZZJ14625
+Tue Mar 18 23:42:33 2025	(#0)	[ERROR]	Multitrade Websocket error @ Connection to remote host was lost.: MCX_ZZJ14625
+Tue Mar 18 23:42:33 2025	(#0)	[ERROR]	Multitrade Websocket connection closed @ None None, retrying in 1 sec: MCX_ZZJ14625
+Tue Mar 18 23:42:34 2025	(#0)	[SUCCESS]	Connected to Multitrade Websocket successfully: MCX_ZZJ14625

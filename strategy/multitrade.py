@@ -149,7 +149,7 @@ class Multitrade:
             verify=self.to_verify
         )
 
-        df = pd.read_csv(io.StringIO(res.text), names=["sec_id", "sec_id_2", "symbol", "sec_description", "prev_close", "expiry_date", "strike_price", "tick_size", "quantity", "option_type", "instrument_type", "exchange"], header=None)
+        df = pd.read_csv(io.StringIO(res.text), on_bad_lines='warn', names=["sec_id", "sec_id_2", "symbol", "sec_description", "prev_close", "expiry_date", "strike_price", "tick_size", "quantity", "option_type", "instrument_type", "exchange"], header=None)
         df["expiry_date"] = pd.to_datetime(df["expiry_date"], format="mixed", errors="coerce")
         print(df)
 
